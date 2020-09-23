@@ -5,7 +5,7 @@ class memory:
 
 
     def __init__(self, word_length, start, end):
-
+        return
 
     def paddr_write(self,paddr, data, length):
 
